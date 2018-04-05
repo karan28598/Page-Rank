@@ -1,6 +1,9 @@
-#Page Rank 
+# Page Rank 
 
 Simple Python Search Spider, Page Ranker, and Visualizer made as a capstone project for the Python Specialization on Coursera.
+
+[![license](https://img.shields.io/github/license/nhnent/tui.editor.svg)](https://github.com/karan28598/Gistly/blob/master/LICENSE)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This is a set of programs that emulate some of the functions of a 
 search engine.  They store their data in a SQLITE3 database named
@@ -161,7 +164,7 @@ http://mbostock.github.com/d3/
 If you rerun the other utilities and then re-run spjson.py - you merely
 have to press refresh in the browser to get the new data from spider.js.
 
-##Terminal
+## Terminal
 
 - `spdump.py` running for wikipedia, ocw-mit, etc.
 <p align="center">
@@ -181,7 +184,7 @@ have to press refresh in the browser to get the new data from spider.js.
  <img width=500px src="./assets/wiki-terminal1.png"></a>
 </p>
 
-##Visualization of various websites using D3.js
+## Visualization of various websites using D3.js
 - MIT OCW
 <p align="center">
   <a href="" rel="noopener">
@@ -197,11 +200,11 @@ have to press refresh in the browser to get the new data from spider.js.
 - Wikipedia
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/wiki.jpg"></a>
+ <img width=500px src="./assets/wiki.png"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/wiki-italy.jpg"></a>
+ <img width=500px src="./assets/wiki-italy.png"></a>
 </p>
 
 - ESPN
